@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/weather-report/static/css/main.d5bec0c8.chunk.css",
-    "main.js": "/weather-report/static/js/main.eb45356a.chunk.js",
-    "main.js.map": "/weather-report/static/js/main.eb45356a.chunk.js.map",
-    "runtime-main.js": "/weather-report/static/js/runtime-main.4487daa6.js",
-    "runtime-main.js.map": "/weather-report/static/js/runtime-main.4487daa6.js.map",
-    "static/js/2.957ccf45.chunk.js": "/weather-report/static/js/2.957ccf45.chunk.js",
-    "static/js/2.957ccf45.chunk.js.map": "/weather-report/static/js/2.957ccf45.chunk.js.map",
-    "index.html": "/weather-report/index.html",
-    "precache-manifest.da6b3b6198860ac08b213881e3856900.js": "/weather-report/precache-manifest.da6b3b6198860ac08b213881e3856900.js",
-    "service-worker.js": "/weather-report/service-worker.js",
-    "static/css/main.d5bec0c8.chunk.css.map": "/weather-report/static/css/main.d5bec0c8.chunk.css.map",
-    "static/js/2.957ccf45.chunk.js.LICENSE": "/weather-report/static/js/2.957ccf45.chunk.js.LICENSE"
+    "main.css": "/wr-react-app/static/css/main.d5bec0c8.chunk.css",
+    "main.js": "/wr-react-app/static/js/main.e7aa5723.chunk.js",
+    "main.js.map": "/wr-react-app/static/js/main.e7aa5723.chunk.js.map",
+    "runtime-main.js": "/wr-react-app/static/js/runtime-main.c4994761.js",
+    "runtime-main.js.map": "/wr-react-app/static/js/runtime-main.c4994761.js.map",
+    "static/js/2.957ccf45.chunk.js": "/wr-react-app/static/js/2.957ccf45.chunk.js",
+    "static/js/2.957ccf45.chunk.js.map": "/wr-react-app/static/js/2.957ccf45.chunk.js.map",
+    "index.html": "/wr-react-app/index.html",
+    "precache-manifest.a0a5163356529fdaf9ea05c853b656e0.js": "/wr-react-app/precache-manifest.a0a5163356529fdaf9ea05c853b656e0.js",
+    "service-worker.js": "/wr-react-app/service-worker.js",
+    "static/css/main.d5bec0c8.chunk.css.map": "/wr-react-app/static/css/main.d5bec0c8.chunk.css.map",
+    "static/js/2.957ccf45.chunk.js.LICENSE": "/wr-react-app/static/js/2.957ccf45.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.4487daa6.js",
+    "static/js/runtime-main.c4994761.js",
     "static/js/2.957ccf45.chunk.js",
     "static/css/main.d5bec0c8.chunk.css",
-    "static/js/main.eb45356a.chunk.js"
+    "static/js/main.e7aa5723.chunk.js"
   ]
 }
